@@ -1,7 +1,7 @@
 {
   "name": "interpied",
   "version": "0.1.0",
-  "homepage": "https://interpied.github.io/website",
+  "homepage": "https://interpied.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
