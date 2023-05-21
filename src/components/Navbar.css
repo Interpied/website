@@ -76,6 +76,10 @@
   display: none;
 }
 
+.logo {
+  width: 30%;
+}
+
 @media screen and (max-width: 960px) {
   .NavbarItems {
     position: relative;

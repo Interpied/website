@@ -29,8 +29,10 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+            {/* <i className='fab' style={{ backgroundImage: 'url(images/logo.png)' }} /> */}
             Elias R
-            <i className='fab fa-typo3' />
+            <i className='fab fa-typo3'/>
+            {/* <img className='logo' src='images/logo.png' alt='logo' /> */}
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
