@@ -1,0 +1,86 @@
+.projectWrapper {
+  justify-content: center;
+  margin: 10%;
+  margin-top: 5%;
+}
+
+.wrapper {
+  width: 40%;
+  margin-right: 5%;
+  /* border: 1px solid yellow; */
+  border-radius: 50px 50px 10px 10px;
+  padding-bottom: 2%;
+  background: #ffffff;
+  filter: drop-shadow(10px 10px 4px #aaaaaa);
+  margin-bottom: -7%;
+}
+
+.imgWrapper {
+  /* border: 1px solid blue; */
+  margin-bottom: -4px;
+  object-fit: scale-down;
+  overflow: hidden;
+}
+
+.titleWrapper {
+  /* border: 1px solid purple; */
+  background: #555555;
+  padding-top: 2px;
+  padding-bottom: 1px;
+}
+
+.buttonWrapper {
+  /* border: 1px solid red; */
+  height: 50px;
+}
+
+.descWrapper {
+  /* border: 1px solid green; */
+  margin: 10px;
+  height: auto;
+  font-size: 18px;
+  padding: 10%;
+  text-align: center;
+}
+
+.imgWrapper img {
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+
+}
+
+.titleWrapper h5 {
+  padding-top: 25px;
+  line-height: 100%;
+  padding-bottom: -30px;
+  margin-bottom: -30px;
+  color: white;
+  font-size: 2rem;
+}
+
+.gotoButton button {
+  width: 30%;
+  height: 100%;
+  background: #ffffff;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 2px;
+  margin-left: 35%;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 1024px) {
+  .projectWrapper {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  .wrapper {
+    margin-bottom: 3rem;
+    width: 80%;
+    margin-left: 10%;
+  }
+}

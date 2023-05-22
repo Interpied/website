@@ -16,6 +16,7 @@ import Design from './components/pages/Design';
 import Photography from './components/pages/Photography';
 import Minesweeper from './components/Minesweeper';
 import Programming from './components/pages/Programming';
+import Codepen from './components/Codepen';
 
 function App() {
   return (
@@ -34,9 +35,10 @@ function App() {
             <Route path='/misc' component={Misc} />
             <Route path='/design' component={Design} />
             <Route path='/photography' component={Photography} />
-            <Route path='/programming' component={Programming} />
+            <Route exact path='/programming' component={Programming} />
 
-            <Route path='/minesweeper' component={Minesweeper} />
+            <Route path='/programming/minesweeper' component={Minesweeper} />
+            <Route path='/programming/codepen' component={Codepen} />
 
             {/* <Route path='/games' element={<Games />} />
             <Route path='/games/:gameId'element={<SingleGame />} /> */}

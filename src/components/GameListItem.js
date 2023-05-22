@@ -30,7 +30,7 @@ function GameListItem (props) {
                         />
                     </div>
 
-                    <div className='descWrapper'>
+                    <div className='descriptionWrapper'>
                         <h5 className='gameList__item__desc__title'>Description</h5>
                         <p className='gameList__item__text'>{
                         props.desc

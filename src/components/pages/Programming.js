@@ -1,11 +1,11 @@
 import React from 'react';
 import '../../App.css';
-import Minesweeper from '../Minesweeper';
+import ProgrammingList from '../ProgrammingList';
 
 function Programming() {
   return (
     <>
-      <Minesweeper />
+      <ProgrammingList />
     </>
   )
 }
