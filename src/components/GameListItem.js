@@ -14,19 +14,19 @@ function GameListItem (props) {
                         <img
                         className='gameList__item__img1'
                         alt='GamePreview'
-                        src={ props.img1 ? props.img1 : 'images/wip.png' }
+                        src={ props.img1 ? props.img1 : 'https://i1.lensdump.com/i/kfnJ97.md.png' }
                         />
                     </div>
                     <div className='smallImgWrapper'>
                         <img
                         className='gameList__item__img2'
                         alt='GamePreview'
-                        src={ props.img2 ? props.img2 : 'images/wip.png' }
+                        src={ props.img2 ? props.img2 : 'https://i1.lensdump.com/i/kfnJ97.md.png' }
                         />
                         <img
                         className='gameList__item__img3'
                         alt='GamePreview'
-                        src={ props.img3 ? props.img3 : 'images/wip.png' }
+                        src={ props.img3 ? props.img3 : 'https://i1.lensdump.com/i/kfnJ97.md.png' }
                         />
                     </div>
 

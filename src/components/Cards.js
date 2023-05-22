@@ -10,19 +10,19 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/games_cover.png'
+              src='https://i2.lensdump.com/i/kfpnCq.md.png'
               text='Games'
               label=''
               path='/games'
             />
             <CardItem
-              src='images/design-cover.png'
+              src='https://i1.lensdump.com/i/kfpShD.md.png'
               text='Design'
               label=''
               path='/design'
             />
             <CardItem
-              src='images/programming_cover.png'
+              src='https://i1.lensdump.com/i/kfpY1Q.md.png'
               text='Programming'
               label=''
               path='/programming'
@@ -31,25 +31,25 @@ function Cards() {
 
           <ul className='cards__items'>
             <CardItem
-              src='images/art_cover.png'
+              src='https://i3.lensdump.com/i/kfplq3.md.png'
               text='Art'
               label=''
               path='/art'
             />
             <CardItem
-              src='images/images/IMG_1508.jpg'
+              src='https://i3.lensdump.com/i/kf7E80.md.jpeg'
               text='Photography'
               label=''
               path='/photography'
             />
             <CardItem
-              src='images/processing-cover.png'
+              src='https://i2.lensdump.com/i/kfpLwM.md.png'
               text='Processing'
               label=''
               path='/processing'
             />
             <CardItem
-              src='images//images/IMG_1201.jpg'
+              src='https://i2.lensdump.com/i/kfpN0k.md.jpeg'
               text='Misc'
               label=''
               path='/misc'

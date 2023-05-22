@@ -12,38 +12,38 @@ function GamePreview() {
         <h1 id='title' >Quick Navigation</h1>
           <ul className='gamePreview__items'>
             <GamePreviewItem
-              src='images/games/western-duel-mayhem.png'
+              src='https://i2.lensdump.com/i/kfzeX5.md.png'
               path='/games#western-duel-mayhem'
             />
             <GamePreviewItem
-              src='images/games/squaresque.png'
+              src='https://i1.lensdump.com/i/kfzzkv.md.png'
               path='/games#squaresque'
             />
             <GamePreviewItem
-              src='images/games/keyboardtangent.png'
+              src='https://i1.lensdump.com/i/kfzOL9.md.png'
               path='/games#keyboard-tangent'
             />
             <GamePreviewItem
-              src='images/games/minesweeper-cover.png'
+              src='https://i2.lensdump.com/i/kfzHa2.md.png'
               path='/games#minesweeper'
             />
             <GamePreviewItem
-              src='images/games/designperspektiv.jpg'
+              src='https://i1.lensdump.com/i/kfz4Nm.md.jpeg'
               path='/games#designperspektiv'
             />
           </ul>
 
           <ul className='gamePreview__items'>
             <GamePreviewItem
-              src='images/games/find-the-anomaly.png'
+              src='https://i2.lensdump.com/i/kfzpii.md.png'
               path='/games#find-the-anomaly'
             />
             <GamePreviewItem
-              src='images/games/casino-craze.jpg'
+              src='https://i2.lensdump.com/i/kfz33P.md.jpeg'
               path='/games#casino-craze'
             />
             <GamePreviewItem
-              src='images/games/alien-operation.jpg'
+              src='https://i3.lensdump.com/i/kfzBXK.md.jpeg'
               path='/games#alien-operation'
             />
             <GamePreviewItem

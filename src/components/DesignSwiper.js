@@ -81,9 +81,9 @@ function DesignSwiper(props) {
                 modules={[Pagination]}
                 className="mySwiper"
             >
-                <SwiperSlide className='swiperSlide'><img src='images/design/infographic_001.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/design/infographic_002.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/design/infographic_003.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kfpszz.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/kfp3wT.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kfpKtb.png' alt='img'></img></SwiperSlide>
             </Swiper>
         </div>
 
@@ -103,9 +103,9 @@ function DesignSwiper(props) {
                 modules={[Pagination]}
                 className="mySwiper"
             >
-                <SwiperSlide className='swiperSlide'><img src='images/design/poster_001.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/design/poster_002.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/design/poster_003.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kfppK7.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kfp7fr.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/kfpHjF.md.png' alt='img'></img></SwiperSlide>
             </Swiper>
         </div>
 
@@ -125,7 +125,7 @@ function DesignSwiper(props) {
                 modules={[Pagination]}
                 className="mySwiper"
             >
-                <SwiperSlide data-hash="slide1" className='swiperSlide'><img src='images/wip.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide data-hash="slide1" className='swiperSlide'><img src='https://i1.lensdump.com/i/kfnJ97.md.png' alt='img'></img></SwiperSlide>
             </Swiper>
         </div>
     </>

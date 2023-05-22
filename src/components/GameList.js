@@ -9,18 +9,18 @@ function GameList() {
       <div className='gameList_container'>
         <GameListItem
           text='Western Duel Mayhem'
-          img1='images/games/western-duel-mayhem.png'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i2.lensdump.com/i/kfzeX5.png'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           path='/games/western-duel-mayhem'
           id='western-duel-mayhem'
           bgcolor='#efd5de'
         />
         <GameListItem
           text='Squaresque'
-          img1='images/games/squaresque.png'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i1.lensdump.com/i/kfzzkv.png'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Use two shapes as reference to estimate the volume of the third shape on screen. Play 5 rounds to get a final score for your performance.'
           path='/games/squaresque'
           id='squaresque'
@@ -28,9 +28,9 @@ function GameList() {
         />
         <GameListItem
           text='Keyboard Tangent'
-          img1='images/games/keyboardtangent.png'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i1.lensdump.com/i/kfzOL9.png'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
           path='/games/keyboard-tangent'
           id='keyboard-tangent'
@@ -38,9 +38,9 @@ function GameList() {
         />
         <GameListItem
           text='Minesweeper'
-          img1='images/games/minesweeper-cover.png'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i2.lensdump.com/i/kfzHa2.png'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
           path='/games/minesweeper'
           id='minesweeper'
@@ -48,9 +48,9 @@ function GameList() {
         />
         <GameListItem
           text='Designperspektiv'
-          img1='images/games/designperspektiv.jpg'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i1.lensdump.com/i/kfz4Nm.jpeg'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
           path='/games/designperspektiv'
           id='designperspektiv'
@@ -58,9 +58,9 @@ function GameList() {
         />
         <GameListItem
           text='Find the Anomaly'
-          img1='images/games/find-the-anomaly.png'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i2.lensdump.com/i/kfzpii.png'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
           path='/games/find-the-anomaly'
           id='find-the-anomaly'
@@ -68,9 +68,9 @@ function GameList() {
         />
         <GameListItem
           text='Casino Craze'
-          img1='images/games/casino-craze.jpg'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i2.lensdump.com/i/kfz33P.jpeg'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
           path='/games/casino-craze'
           id='casino-craze'
@@ -78,9 +78,9 @@ function GameList() {
         />
         <GameListItem
           text='Alien Operation'
-          img1='images/games/alien-operation.jpg'
-          img2='images/wip.png'
-          img3='images/wip.png'
+          img1='https://i3.lensdump.com/i/kfzBXK.jpeg'
+          img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
+          img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
           path='/games/alien-operation'
           id='alien-operation'

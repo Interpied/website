@@ -11,7 +11,7 @@ function GamePreviewItem(props) {
             <img
               className='gamePreview__item__img'
               alt='GamePreview'
-              src={ props.src ? props.src : 'images/wip.png' }
+              src={ props.src ? props.src : 'https://i1.lensdump.com/i/kfnJ97.md.png' }
             />
           </figure>
         </Link>
