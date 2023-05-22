@@ -14,6 +14,8 @@ import Error from './components/pages/Error';
 import Misc from './components/pages/Misc';
 import Design from './components/pages/Design';
 import Photography from './components/pages/Photography';
+import Minesweeper from './components/Minesweeper';
+import Programming from './components/pages/Programming';
 
 function App() {
   return (
@@ -32,6 +34,9 @@ function App() {
             <Route path='/misc' component={Misc} />
             <Route path='/design' component={Design} />
             <Route path='/photography' component={Photography} />
+            <Route path='/programming' component={Programming} />
+
+            <Route path='/minesweeper' component={Minesweeper} />
 
             {/* <Route path='/games' element={<Games />} />
             <Route path='/games/:gameId'element={<SingleGame />} /> */}
