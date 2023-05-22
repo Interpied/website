@@ -31,16 +31,16 @@ function DesignSwiper(props) {
                 modules={[Pagination]}
                 className="mySwiper"
             >
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_001.png' alt='img'/></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_002.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_003.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_004.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_005.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_006.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_007.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_008.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_009.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='images/art/sketch_010.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7V7Q.md.png' alt='img'/></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf79Fa.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7qIe.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf7Bmk.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/kf7mox.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf738H.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf74Q1.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf7Kec.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7pyK.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf7OTZ.md.png' alt='img'></img></SwiperSlide>
             </Swiper>
         </div>
 
@@ -63,13 +63,13 @@ function DesignSwiper(props) {
                 modules={[Pagination]}
                 className="mySwiper"
             >
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7H7P.png' alt='img'/></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7lUm.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7SZi.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7emo.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7oy5.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7NOT.png' alt='img'></img></SwiperSlide>
-                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7bA3.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7H7P.md.png' alt='img'/></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf7lUm.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/kf7SZi.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf7emo.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/kf7oy5.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kf7NOT.md.png' alt='img'></img></SwiperSlide>
+                <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kf7bA3.md.png' alt='img'></img></SwiperSlide>
             </Swiper>
         </div>
     </>
