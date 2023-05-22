@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/penguin_01.mp4' autoPlay loop muted />
+      <video src='https://res.cloudinary.com/dp7qd9bi1/video/upload/v1684740643/penguin_01_k9bect.mp4' autoPlay loop muted />
       <h1>ELIAS RAMSBERG</h1>
       <p>director's cut</p>
       <div className='hero-btns'>
