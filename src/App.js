@@ -35,15 +35,15 @@ function App() {
             <Route path='/misc' component={Misc} />
             <Route path='/design' component={Design} />
             <Route path='/photography' component={Photography} />
-            <Route exact path='/programming' component={Programming} />
 
+            <Route path='/programming' component={Programming} />
             <Route path='/programming/minesweeper' component={Minesweeper} />
             <Route path='/programming/codepen' component={Codepen} />
 
             {/* <Route path='/games' element={<Games />} />
             <Route path='/games/:gameId'element={<SingleGame />} /> */}
-            <Route exact path='/games' component={Games} />
-            <Route path='/games/:gameId' component={SingleGame} />
+            <Route path='/games' element={<Games/>} />
+            <Route path='/games/:gameId' element={<SingleGame/>} />
             {/* <Route path='/games/*' component={Error} /> */}
 
             {/* <Route path='sign-up' component={SignUp} /> */}
