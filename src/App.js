@@ -36,13 +36,13 @@ function App() {
             <Route path='/design' component={Design} />
             <Route path='/photography' component={Photography} />
 
-            <Route path='/programming' component={Programming} />
+            <Route exact path='/programming' component={Programming} />
             <Route path='/programming/minesweeper' component={Minesweeper} />
             <Route path='/programming/codepen' component={Codepen} />
 
             {/* <Route path='/games' element={<Games />} />
             <Route path='/games/:gameId'element={<SingleGame />} /> */}
-            <Route path='/games' component={Games} />
+            <Route exact path='/games' component={Games} />
             <Route path='/games/:gameId' component={SingleGame} />
             {/* <Route path='/games/*' component={Error} /> */}
 
