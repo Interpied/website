@@ -42,8 +42,8 @@ function App() {
 
             {/* <Route path='/games' element={<Games />} />
             <Route path='/games/:gameId'element={<SingleGame />} /> */}
-            <Route path='/games' element={<Games/>} />
-            <Route path='/games/:gameId' element={<SingleGame/>} />
+            <Route path='/games' component={Games} />
+            <Route path='/games/:gameId' component={SingleGame} />
             {/* <Route path='/games/*' component={Error} /> */}
 
             {/* <Route path='sign-up' component={SignUp} /> */}
