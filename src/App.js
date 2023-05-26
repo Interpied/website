@@ -47,6 +47,10 @@ function App() {
             {/* <Route path='/games/*' component={Error} /> */}
 
             {/* <Route path='sign-up' component={SignUp} /> */}
+
+            {/* update for update's sake */}
+                        {/* update for update's sake */}
+                                    {/* update for update's sake */}
             <Route path='*' component={Error} />
           </Switch>
 
