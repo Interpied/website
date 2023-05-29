@@ -37,7 +37,7 @@ function App() {
             <Route path='/photography' component={Photography} />
 
             <Route exact path='/programming' component={Programming} />
-            <Route exact path='/programming/minesweeper' component={Minesweeper} />
+            <Route path='/minesweeper' component={Minesweeper} />
             <Route exact path='/programming/codepen' component={Codepen} />
 
             <Route exact path='/games' component={Games} />
