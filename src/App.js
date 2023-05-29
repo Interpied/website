@@ -38,10 +38,10 @@ function App() {
 
             <Route exact path='/programming' component={Programming} />
             <Route path='/minesweeper' component={Minesweeper} />
-            <Route exact path='/programming/codepen' component={Codepen} />
+            <Route exact path='/codepen' component={Codepen} />
 
             <Route exact path='/games' component={Games} />
-            <Route path='/games/:gameId' component={SingleGame} />
+            <Route path='/:gameId' component={SingleGame} />
             
             <Route path='*' component={Error} />
           </Switch>
