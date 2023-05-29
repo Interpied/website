@@ -12,7 +12,7 @@ function GameList() {
           img1='https://i2.lensdump.com/i/kfzeX5.png'
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
-          path='/games/western-duel-mayhem'
+          path='/western-duel-mayhem'
           id='western-duel-mayhem'
           bgcolor='#efd5de'
         />
@@ -22,7 +22,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Use two shapes as reference to estimate the volume of the third shape on screen. Play 5 rounds to get a final score for your performance.'
-          path='/games/squaresque'
+          path='/squaresque'
           id='squaresque'
           bgcolor='#d4eae6'
         />
@@ -32,7 +32,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
-          path='/games/keyboard-tangent'
+          path='/keyboard-tangent'
           id='keyboard-tangent'
           bgcolor='#efead5'
         />
@@ -42,7 +42,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
-          path='/games/minesweeper'
+          path='/minesweeper'
           id='minesweeper'
           bgcolor='#e7a7a7'
         />
@@ -52,7 +52,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
-          path='/games/designperspektiv'
+          path='/designperspektiv'
           id='designperspektiv'
           bgcolor='#d5efe3'
         />
@@ -62,7 +62,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
-          path='/games/find-the-anomaly'
+          path='/find-the-anomaly'
           id='find-the-anomaly'
           bgcolor='#efe1d5'
         />
@@ -72,7 +72,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
-          path='/games/casino-craze'
+          path='/casino-craze'
           id='casino-craze'
           bgcolor='#d5efdb'
         />
@@ -82,7 +82,7 @@ function GameList() {
           img2='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           img3='https://i1.lensdump.com/i/kfnJ97.md.png' // wip.png
           desc='Try to beat the time! Never seen before! Something Something! Wow so cool how is that possible! Nice one! Great Job!'
-          path='/games/alien-operation'
+          path='/alien-operation'
           id='alien-operation'
           bgcolor='#e7efd5'
         />

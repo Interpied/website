@@ -9,12 +9,12 @@ function ProgrammingList() {
         <ProgrammingListItem
           text='Minesweeper'
           img1='https://i2.lensdump.com/i/kfzHa2.md.png'
-          path='/programming/minesweeper'
+          path='/minesweeper'
         />
         <ProgrammingListItem
           text='Codepen'
           img1='https://i2.lensdump.com/i/kFxk2k.md.png'
-          path='/programming/codepen'
+          path='/codepen'
         />
         <ProgrammingListItem
         />
