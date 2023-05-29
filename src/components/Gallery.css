@@ -46,10 +46,10 @@ body {
 }
 
 .mySwiper {
-  height: 500px;
+  height: 400px;
   width: 80%;
-  padding-bottom: 120px;
-  margin-bottom: 100px;
+  /* padding-bottom: 120px; */
+  margin-bottom: 150px;
 
   display: flex;
   align-items: center;
@@ -68,6 +68,10 @@ body {
   font-size: 20px;
   padding: 15px;
   color: #ffffff;
+}
+
+.fullWrapper{
+  margin-bottom: 100px;
 }
 
 /* .photoGallery .flip {
