@@ -36,11 +36,11 @@ function App() {
             <Route path='/design' component={Design} />
             <Route path='/photography' component={Photography} />
 
-            <Route exact path='/programming' component={Programming} />
+            <Route path='/programming' component={Programming} />
             <Route path='/minesweeper' component={Minesweeper} />
-            <Route exact path='/codepen' component={Codepen} />
+            <Route path='/codepen' component={Codepen} />
 
-            <Route exact path='/games' component={Games} />
+            <Route path='/games' component={Games} />
             <Route path='/:gameId' component={SingleGame} />
             
             <Route path='*' component={Error} />
