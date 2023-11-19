@@ -47,7 +47,7 @@ function GamePreview() {
               path='/games#alien-operation'
             />
             <GamePreviewItem
-
+            
             />
             <GamePreviewItem
 

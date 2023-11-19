@@ -107,6 +107,7 @@ function DesignSwiper(props) {
                     <SwiperSlide className='swiperSlide'><img src='https://i3.lensdump.com/i/kfppK7.md.png' alt='img'></img></SwiperSlide>
                     <SwiperSlide className='swiperSlide'><img src='https://i1.lensdump.com/i/kfp7fr.md.png' alt='img'></img></SwiperSlide>
                     <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/kfpHjF.md.png' alt='img'></img></SwiperSlide>
+                    <SwiperSlide className='swiperSlide'><img src='https://i2.lensdump.com/i/mxNv91.md.png' alt='img'></img></SwiperSlide>
                 </Swiper>
             </div>
 
